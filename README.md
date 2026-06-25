@@ -8,13 +8,13 @@
 	- Regression
 	- Clustering
 
----
+
 ### **1. Self Learning Resource**
 
 Tutorial on Pycaret for Regression, Classification and Clustering <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html"> Click Here</a>
 
 
----
+
 ### **2. In this tutorial we will learn**
 ---
 - Getting Data: How to import data from PyCaret repository
